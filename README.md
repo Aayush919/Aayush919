@@ -1,3 +1,4 @@
+![logo](https://github.com/Aayush919/Aayush919/blob/main/githubbnaeer.jpg)
 <h1 align="center">Hi 👋, I'm Aayush MAlviya</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align='right' alt='coding' width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEPneuYdkZuBq5275ASYcyX4MJ68LTW_dh3CndG_nUOlnF2RsiLAVvHBGtSsGnaZf3Og&usqp=CAU">
